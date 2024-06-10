@@ -11,12 +11,12 @@
             <ion-input label="Name" v-model="contact.name"></ion-input>
           </ion-item>
           <ion-item>
-            <ion-input label="Email" v-model="contact.email" placeholder="Enter email"></ion-input>
+            <ion-input label="Email" v-model="contact.email" placeholder="Saisir l'adresse e-mail"></ion-input>
           </ion-item>
           <ion-item>
-            <ion-input label="Phone" v-model="contact.phone" placeholder="Enter phone number"></ion-input>
+            <ion-input label="Phone" v-model="contact.phone" placeholder="Entrez le numéro de téléphone"></ion-input>
           </ion-item>
-          <ion-button expand="full" @click="updateContact">Update</ion-button>
+          <ion-button expand="full" @click="updateContact">mettre à jour</ion-button>
         </ion-list>
       </ion-content>
     </ion-page>
