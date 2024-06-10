@@ -1,9 +1,13 @@
 
-# Gestion de Contacts avec Ionic et Vue.js
+# Ionic Vue 3 Contacts
 
-Ce projet est une application de gestion de contacts développée avec Ionic et Vue.js, utilisant Vite pour le bundling. L'application permet d'ajouter, de modifier, de supprimer et de rechercher des contacts.
+Réaliser une application web mobile de gestion de contacts en utilisant Vue 3 et Ionic8.
+
+## 🛠️ Étapes
 
 ## Fonctionnalités
+
+L’application permet de gérer les contacts de façon CRUD. On peut donc créer, voir,modifier et supprimer les contacts.
 
 - **Liste des contacts** : Affiche tous les contacts enregistrés.
 - **Ajouter un contact** : Permet d'ajouter un nouveau contact.
@@ -36,16 +40,15 @@ Pour démarrer l'application en mode développement, utilisez la commande suivan
 ```bash
 ionic serve
 ```
+# Bonus 
 
-## Captures d'écran
+- Mettre en place une fonctionnalité de recherche dans la liste de contacts (paged’accueil).
 
-### Interface d'accueil
+## 📏 Contraintes
+- Le starter template Ionic le plus approprié pour ce projet est “list”.
+- Vous pouvez utiliser javascript au lieu de typescript. Dans ce cas, suivez les étapessuivantss pour transformer votre projet : [Iionic Docs](https://ionicframework.com/docs/vue/quickstart#build-your-way-with-typescript-or-javascript).
 
-![Interface d'accueil](./home.png)
-
-### Interface d'édition
-
-![Interface d'édition](./edit.png)
+Vous pouvez aussi utiliser le starter kit  [Kit](https://github.com/cba85/ionic8-vue3-js-list).
 
 ## Structure du projet
 
