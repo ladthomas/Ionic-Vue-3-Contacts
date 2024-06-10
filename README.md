@@ -3,7 +3,7 @@
 
 Réaliser une application web mobile de gestion de contacts en utilisant Vue 3 et Ionic8.
 
-## 🛠️ Étapes
+##  Étapes
 
 ## Fonctionnalités
 
@@ -48,7 +48,7 @@ ionic serve
 - Le starter template Ionic le plus approprié pour ce projet est “list”.
 - Vous pouvez utiliser javascript au lieu de typescript. Dans ce cas, suivez les étapessuivantss pour transformer votre projet : [Iionic Docs](https://ionicframework.com/docs/vue/quickstart#build-your-way-with-typescript-or-javascript).
 
-Vous pouvez aussi utiliser le starter kit  [Kit](https://github.com/cba85/ionic8-vue3-js-list).
+Vous pouvez aussi utiliser le starter [Kit](https://github.com/cba85/ionic8-vue3-js-list).
 
 ## Structure du projet
 
@@ -72,10 +72,4 @@ Vous pouvez aussi utiliser le starter kit  [Kit](https://github.com/cba85/ionic8
 └── vite.config.js
 ```
 
-## Contribuer
 
-Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des modifications que vous souhaitez apporter.
-
-## License
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
