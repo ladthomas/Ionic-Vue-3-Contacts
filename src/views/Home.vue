@@ -5,7 +5,7 @@
         <ion-title>Contacts</ion-title>
       </ion-toolbar>
       <ion-toolbar>
-        <ion-searchbar v-model="searchQuery" placeholder="Search contacts"></ion-searchbar>
+        <ion-searchbar v-model="searchQuery" placeholder="Rechercher les contacts"></ion-searchbar>
       </ion-toolbar>
     </ion-header>
     <ion-content>
