@@ -11,7 +11,7 @@
     <ion-content>
       <ion-list>
         <ion-item>
-          <ion-input label="Name" v-model="contact.name"></ion-input>
+          <ion-input label="Name" v-model="contact.name" placeholder="Saisir votre nom"></ion-input>
         </ion-item>
         <ion-item>
           <ion-input label="Email" v-model="contact.email" placeholder="Saisir l'adresse e-mail"></ion-input>
