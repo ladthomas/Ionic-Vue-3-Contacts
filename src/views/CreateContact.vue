@@ -5,7 +5,7 @@
         <ion-buttons slot="start">
           <ion-back-button defaultHref="/"></ion-back-button>
         </ion-buttons>
-        <ion-title>Create Contact</ion-title>
+        <ion-title>Créer un contact</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content>

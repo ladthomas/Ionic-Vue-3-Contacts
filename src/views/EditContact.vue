@@ -2,7 +2,7 @@
     <ion-page>
       <ion-header>
         <ion-toolbar>
-          <ion-title>Edit Contact</ion-title>
+          <ion-title>Modifier le contact</ion-title>
         </ion-toolbar>
       </ion-header>
       <ion-content>
