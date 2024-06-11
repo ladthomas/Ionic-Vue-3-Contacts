@@ -72,4 +72,17 @@ Vous pouvez aussi utiliser le starter [Kit](https://github.com/cba85/ionic8-vue3
 └── vite.config.js
 ```
 
+## Construit avec
+- [ ] Tailwind
+- [ ] Next.js
+- [x] Html
+- [ ] Python
+- [ ] C#
+- [ ] Css
+- [x] Js
+- [x] vue
 
+
+## Gestion des versions
+
+Les versions disponibles ainsi que les journaux décrivant les changements apportés sont disponibles depuis [la page des Releases][https://contactsappionic.netlify.app/].
