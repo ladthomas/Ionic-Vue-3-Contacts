@@ -85,4 +85,4 @@ Vous pouvez aussi utiliser le starter [Kit](https://github.com/cba85/ionic8-vue3
 
 ## Gestion des versions
 
-Les versions disponibles ainsi que les journaux décrivant les changements apportés sont disponibles depuis [la page des Releases][https://contactsappionic.netlify.app/].
+Les versions disponibles ainsi que les journaux décrivant les changements apportés sont disponibles depuis [lien du sites ](https://contactsappionic.netlify.app/)
